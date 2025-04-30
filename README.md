@@ -19,7 +19,6 @@ _Guardianes del Agua_ es un videojuego educativo en 3D creado para estudiantes d
 
 ## 🔧 Tecnologías propuestas
 
-> *Este prototipo es una base conceptual. La implementación final puede variar.*
 
 - Motor de juego: [UnrealEngine 5]
 - Lenguaje de programación: C++ o Blueprints
