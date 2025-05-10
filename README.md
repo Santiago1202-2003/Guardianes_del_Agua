@@ -6,7 +6,6 @@ _Guardianes del Agua_ es un videojuego educativo en 3D creado para estudiantes d
 
 ## 🌟 Características principales
 
-- ✅ Selección de personaje al iniciar el juego.
 - 💾 Sistema de guardado y carga de partidas.
 - 📚 Evaluaciones tipo quiz al finalizar los niveles.
 - 📊 Consulta de resultados por parte de los docentes.
@@ -22,7 +21,7 @@ _Guardianes del Agua_ es un videojuego educativo en 3D creado para estudiantes d
 
 - Motor de juego: [UnrealEngine 5]
 - Lenguaje de programación: C++ o Blueprints
-- Base de datos: MySQL
+- Base de datos: PlayFab
 - Interfaz gráfica: Assets libres
 
 ---

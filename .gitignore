@@ -1,14 +1,43 @@
-Binaries
-DerivedDataCache
-Intermediate
-Saved
-.vscode
-.vs
+# Build folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Compiled files
+*.pdb
+*.obj
+*.exe
+*.dll
+*.app
+*.dylib
+*.lib
+
+# VS project files (si usas Visual Studio)
+.vscode/
 *.VC.db
-*.opensdf
-*.opendb
-*.sdf
 *.sln
 *.suo
-*.xcodeproj
-*.xcworkspace
+*.user
+*.opensdf
+*.sdf
+*.ipch
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Unreal backup
+*.log
+*.tmp
+
+# Git LFS pointer files
+*.uasset
+*.umap
+
+# Git LFS configuration files
+.gitattributes
